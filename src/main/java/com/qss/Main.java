@@ -11,5 +11,6 @@ public class Main {
         System.out.println("master commit");
         System.out.println("dev init");
         System.out.println("dev 1");
+        System.out.println("dev 修复404");
     }
 }

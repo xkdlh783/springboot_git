@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Hello world!");
         SpringApplication.run(Main.class, args);
         System.out.println("master commit");
+        System.out.println("dev init");
     }
 }

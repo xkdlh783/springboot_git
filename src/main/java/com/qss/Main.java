@@ -14,5 +14,6 @@ public class Main {
         System.out.println("dev 修复404");
         System.out.println("dev 修复405");
         System.out.println("dev 待提交内容");
+        System.out.println("GitHub");
     }
 }
